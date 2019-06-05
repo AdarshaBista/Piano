@@ -8,4 +8,4 @@ A simple piano that can be played with a keyboard.
 
 ## Screenshots
 
-![Screenshot 1](/Piano/assets/screenshots/1.png?raw=true "Screenshot 1")
+![Screenshot 1](Screenshots/1.png?raw=true "Screenshot 1")
